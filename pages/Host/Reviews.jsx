@@ -51,7 +51,7 @@ export default function Reviews() {
                     </div>
                     <div>
                         <h4>Elliot  <a style={{color: "#8C8C8C", fontWeight: "normal", marginLeft: "5"}}>December 1, 2022</a></h4>
-                        <p style={{maxWidth: "500"}}> 
+                        <p style={{maxWidth: "350"}}> 
                         The beach bum is such as awesome van! Such as comfortable trip. 
                         We had it for 2 weeks and there was not a single issue. 
                         Super clean when we picked it up and the host is very comfortable and understanding. Highly recommend!
@@ -71,7 +71,7 @@ export default function Reviews() {
                     </div>
                     <div>
                         <h4>Sandy  <a style={{color: "#8C8C8C", fontWeight: "normal", marginLeft: "5"}}>November 3, 2022</a></h4>
-                        <p style={{maxWidth: "500"}}> 
+                        <p style={{maxWidth: "350"}}> 
                             This is our third time using the Modest Explorer for our travels and we love it! No complaints, absolutely perfect!
                         </p>
                     </div>
