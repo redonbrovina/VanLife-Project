@@ -11,31 +11,31 @@ export default function Reviews() {
                     <p>5 stars</p>
                     <div className="reviews-meter">
                     </div>
-                    <p>100 %</p>
+                    <p>100%</p>
                 </div>
                 <div className="reviews-stars">
                     <p>4 stars</p>
                     <div className="reviews-meter" style={{backgroundColor: "#B9B9B9"}}>
                     </div>
-                    <p>0 %</p>
+                    <p>0%</p>
                 </div>
                 <div className="reviews-stars">
                     <p>3 stars</p>
                     <div className="reviews-meter" style={{backgroundColor: "#B9B9B9"}}>
                     </div>
-                    <p>0 %</p>
+                    <p>0%</p>
                 </div>
                 <div className="reviews-stars">
                     <p>2 stars</p>
                     <div className="reviews-meter" style={{backgroundColor: "#B9B9B9"}}>
                     </div>
-                    <p>0 %</p>
+                    <p>0%</p>
                 </div>
                 <div className="reviews-stars">
                     <p>1 stars</p>
                     <div className="reviews-meter" style={{backgroundColor: "#B9B9B9"}}>
                     </div>
-                    <p>0 %</p>
+                    <p>0%</p>
                 </div>
 
                 <div style={{borderBottom: "2px solid #C7C7C7", maxWidth: "fit-content"}}>
